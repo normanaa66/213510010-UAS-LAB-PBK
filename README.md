@@ -1,4 +1,6 @@
 # modal-project
+NAMA : NORMAN ANAK AMPUN
+NPM  : 213510010
 
 ## Project setup
 ```
